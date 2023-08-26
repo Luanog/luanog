@@ -17,8 +17,8 @@
 
 #### Graduations
 
-🤖 Mechatronic Technician - IFSP
-🧑‍💻 Bachelor of Software Engineering - Estacio (in progress)
+🤖 Mechatronic Technician - IFSP &nbsp;
+🧑‍💻 Bachelor of Software Engineering - Estacio (in progress)\n
 🎲 Data Analitycs - EBAC (in progress)
 📊 Power BI - EBAC
 🔢 Probability and statistics - USP
