@@ -20,8 +20,11 @@
 🤖 Mechatronic Technician - IFSP
 
 🧑‍💻 Bachelor of Software Engineering - Estacio (in progress)
+
 🎲 Data Analitycs - EBAC (in progress)
+
 📊 Power BI - EBAC
+
 🔢 Probability and statistics - USP
 
 
