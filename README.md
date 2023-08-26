@@ -1,10 +1,27 @@
 ### Olá eu sou Luan Nogueira!
 
+## My Skills
+
+#### Main Stack:
+
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+
+#### Studying in this moment:
+
+
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
+
+
+#### Graduations
+
+🤖 Mechatronic Technician - IFSP
+🧑‍💻 Bachelor of Software Engineering - Estacio (in progress)
+🎲 Data Analitycs - EBAC (in progress)
+📊 Power BI - EBAC
+🔢 Probability and statistics - USP
 
 
 <!--
