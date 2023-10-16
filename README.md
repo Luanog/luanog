@@ -1,7 +1,5 @@
 ### Olá eu sou Luan Nogueira!
 
-Sou analista de dados e faço alguns dashboards com gráficos iguais a esses abaixo ⬇️
-
 
 ![](https://raw.githubusercontent.com/Luanog/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg)
 
