@@ -1,12 +1,11 @@
 ### Olá eu sou Luan Nogueira!
 
+Sou analista de dados e faço alguns dashboards com gráficos iguais a esses abaixo ⬇️
 
+[![](https://raw.githubusercontent.com/Luanog/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg)](https://github.com/Luanog/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Luanog/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/1-repos-per-language.svg)](https://github.com/Luanog/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Luanog/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/2-most-commit-language.svg)](https://github.com/Luanog/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Luanog/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/3-stats.svg)](https://github.com/Luanog/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Luanog/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)](https://github.com/Luanog/github-profile-summary-cards)
 
-<div>
-<a href="https://github.com/Luanog">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanog&layout=compact&langs_count=7&theme=black"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Luanog&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-</div>
 
 ## My Skills
 
