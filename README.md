@@ -14,6 +14,9 @@
   <a href="https://luanog.github.io/Portfolio/" align="center">
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+    <a href="https://wa.me/5513997502312" align="center">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </div>
 <br>
 
