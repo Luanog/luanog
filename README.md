@@ -7,6 +7,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanog&layout=compact&theme=transparent)
 ![Luanog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanog&show_icons=true&theme=transparent)
 
+logo={https://img.shields.io/badge/LinkedIn-blue}
+logoColor={Blue}
+
 ## My Skills
 
 #### Main Stack:
