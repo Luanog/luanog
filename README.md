@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/luan-nogueira-data/">
     <img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="your-youtube-URL" align="center">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://luanog.github.io/Portfolio/" align="center">
+    <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </div>
 
