@@ -11,9 +11,7 @@
   </a>
 </div>
 
-<center>
-  <h1>Olá, tudo bem?</h1>
-</center>
+<h1 style="text-align: center;">Olá, tudo bem?</h1>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanog&layout=compact&theme=transparent)
 ![Luanog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanog&show_icons=true&theme=transparent)
