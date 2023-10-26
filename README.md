@@ -1,6 +1,6 @@
 ### Olá eu sou Luan Nogueira!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanog&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanog&layout=compact&theme=transparent)
 ![Luanog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanog&show_icons=true&theme=transparent)
 
 ## My Skills
