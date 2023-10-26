@@ -12,7 +12,7 @@
 </div>
 
 <br>
-<p align="center">Olá, tudo bem?</p>
+<h1 align="center">Olá, tudo bem?</h1>
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanog&layout=compact&theme=transparent)
