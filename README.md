@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<div id="header "align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -15,9 +15,7 @@
 <h1 align="center">Olá, tudo bem?</h1>
 <br>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+
 
 ## Meus dados aqui no Git
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanog&layout=compact&theme=transparent)
