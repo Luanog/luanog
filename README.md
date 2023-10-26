@@ -1,5 +1,5 @@
 <br>
-<h1 align="center">Olá, tudo bem?</h1>
+<h1 align="center">Analista de Dados</h1>
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -17,9 +17,6 @@
 </div>
 <br>
 
-<br>
-<h1 align="center">Analista de Dados</h1>
-<br>
 
 
 ## Meus dados aqui no Git
