@@ -22,12 +22,12 @@
 ## Meus dados aqui no Git
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanog&theme=github" alt="Contribuições">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanog&theme=github_dark" alt="Contribuições">
 </p>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luanog&theme=github&exclude={exclude}" alt="Top Linguagens Repo">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luanog&theme=github&exclude={exclude}" alt="Top Linguagens Commit">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luanog&theme=github_dark&exclude={exclude}" alt="Top Linguagens Repo">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luanog&theme=github_dark&exclude={exclude}" alt="Top Linguagens Commit">
 </div>
 
 
