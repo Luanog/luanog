@@ -1,7 +1,6 @@
 ### Olá eu sou Luan Nogueira!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Luanog=anuraghazra&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ## My Skills
 
 #### Main Stack:
