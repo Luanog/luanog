@@ -21,8 +21,8 @@
 
 ## Meus dados aqui no Git
 ![Contribuições](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanog&theme=github)
-![Linguagens](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luanog&theme=github&exclude={exclude})
-![Luanog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanog&show_icons=true&theme=transparent)
+![Top Linguagens Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luanog&theme=github&exclude={exclude})
+![Top Linguagens Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luanog&theme=github&exclude={exclude})
 
 
 
