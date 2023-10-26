@@ -1,8 +1,6 @@
 ### Olá eu sou Luan Nogueira!
 
-
-![](https://raw.githubusercontent.com/Luanog/github-profile-summary-cards-example/master/profile-summary-card-output/vision_friendly_dark/0-profile-details.svg)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Luanog=anuraghazra&layout=compact)
 
 ## My Skills
 
