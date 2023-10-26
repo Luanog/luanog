@@ -20,7 +20,9 @@
 
 
 ## Meus dados aqui no Git
-![Contribuições](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanog&theme=github)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanog&theme=github" alt="Contribuições">
+</p>
 ![Top Linguagens Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luanog&theme=github&exclude={exclude})
 ![Top Linguagens Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luanog&theme=github&exclude={exclude})
 
