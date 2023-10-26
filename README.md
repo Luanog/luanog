@@ -18,7 +18,7 @@
 <br>
 
 <br>
-<h1 align="center">Me chamo Luan e sou Analista de Dados</h1>
+<h1 align="center">Analista de Dados</h1>
 <br>
 
 
