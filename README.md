@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luanog&theme=github_dark" alt="status">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luanog&theme=github_dark&utcOffset=-3:00" alt="Top Linguagens Commit">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luanog&theme=github_dark&utcOffset=-3" alt="Top Linguagens Commit">
 </div>
 
 
