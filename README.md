@@ -20,6 +20,9 @@
 
 
 ## Meus dados aqui no Git
+http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanog&theme=github
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanog&layout=compact&theme=transparent)
 ![Luanog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanog&show_icons=true&theme=transparent)
 
