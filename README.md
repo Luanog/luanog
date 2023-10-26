@@ -15,6 +15,10 @@
 <h1 align="center">Olá, tudo bem?</h1>
 <br>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanog&layout=compact&theme=transparent)
 ![Luanog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanog&show_icons=true&theme=transparent)
 
