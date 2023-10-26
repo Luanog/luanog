@@ -25,13 +25,10 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Luanog&theme=github" alt="Contribuições">
 </p>
 
-<p align="center">
+<div style="display: flex; justify-content: center;">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luanog&theme=github&exclude={exclude}" alt="Top Linguagens Repo">
-</p>
-
-<p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luanog&theme=github&exclude={exclude}" alt="Top Linguagens Commit">
-</p>
+</div>
 
 
 ## Minhas Habilidades
