@@ -19,28 +19,29 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+### Meus dados aqui no Git
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luanog&layout=compact&theme=transparent)
 ![Luanog's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luanog&show_icons=true&theme=transparent)
 
 
 
-## My Skills
+## Minhas Habilidades
 
-#### Main Stack:
+#### Principais:
 
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 
-#### Studying in this moment:
+#### Estou estudando no momento:
 
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 
 
-#### Graduations
+#### Graduações
 
 🤖 Mechatronic Technician - IFSP
 
