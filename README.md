@@ -30,6 +30,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Luanog&theme=github_dark&exclude={exclude}" alt="Top Linguagens Commit">
 </div>
 
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Luanog&theme=github_dark" alt="status">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luanog&theme=github_dark&utcOffset=-3:00" alt="Top Linguagens Commit">
+</div>
+
 
 ## Minhas Habilidades
 
