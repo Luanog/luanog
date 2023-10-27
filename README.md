@@ -57,15 +57,15 @@
 
 #### Graduações
 
-🤖 Mechatronic Technician - IFSP
+🤖 Técnico em Mecatrônica - IFSP
 
-🧑‍💻 Bachelor of Software Engineering - Estacio (in progress)
+🧑‍💻 Engenharia de Software - Estacio (em progresso)
 
-🎲 Data Analitycs - EBAC (in progress)
+🎲 Analista de Dados - EBAC (em progresso)
 
 📊 Power BI - EBAC
 
-🔢 Probability and statistics - USP
+🔢 Probabilidade e Estatística - USP
 
 
 
