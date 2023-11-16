@@ -1,5 +1,8 @@
 <br>
-<h1 align="center">Analista de Dados</h1>
+<h1 align="center">Olá, eu me chamo Luan Nogueira e sou:</h1>
+<br>
+<br>
+<h2 align="center">Analista de Dados</h2>
 <br>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
